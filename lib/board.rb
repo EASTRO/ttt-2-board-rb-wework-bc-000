@@ -7,3 +7,4 @@ def
   puts "   |   |   "
   puts "-----------" 
   puts "   |   |   "
+end
